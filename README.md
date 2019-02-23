@@ -1,2 +1,1 @@
-# AZ-203-DevelopingSolutionsForAzure
-Developing Solutions for Microsoft Azure (AZ-203)
+# Developing Solutions for Microsoft Azure (AZ-203)
